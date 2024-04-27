@@ -1,1 +1,1 @@
-# graphlit-evals
+# Graphlit evaluations
